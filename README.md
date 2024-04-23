@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+
+My name is Maciek and I'm a guy passionate about software security and servers. I graduated from AGH UST as a Power Engineer but my interests have shifted since. I try to continuously expand my knowledge on networks and secure approaches to software.
+I'm currently learning:
+- Web Development using Vanilla JS - The Odin Project
+- CompTIA A+ - Professor Messer lecture snippets
 
 <!--
 **mateyoski/mateyoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
